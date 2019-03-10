@@ -1,0 +1,6 @@
+.pioenvs
+.vscode
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+src/configuration.h
